@@ -210,7 +210,7 @@ export const mockData = {
           "id": "linuxdo",
           "name": "Linux.do",
           "url": "https://linux.do",
-          "description": "Linux与开源技术社区",
+          "description": "社区。Where possible begins.",
           "icon": "/sitelogo/linux.do.ico"
         },
         {
