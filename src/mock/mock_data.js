@@ -17,7 +17,7 @@ export const mockData = {
           "id": "linux-do",
           "name": "Linux.do",
           "url": "https://linux.do",
-          "description": "Linux技术社区，Peace and Love",
+          "description": "Where Possible begins.",
           "icon": "/sitelogo/linux.do.ico"
         },
         {
