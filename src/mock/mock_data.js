@@ -2,44 +2,44 @@ export const mockData = {
   "categories": [
     {
       "id": "my-favorites",
-      "name": "我的常用",
+      "name": "子站点",
       "icon": "💥",
       "order": 0,
       "sites": [
         {
           "id": "site-1752649007053",
-          "name": "BeJson",
-          "url": "https://www.bejson.com/",
-          "description": "工具大全",
-          "icon": "/sitelogo/www.bejson.com.ico"
+          "name": "To do list",
+          "url": "https://todo.fangzm.dpdns.org/",
+          "description": "To do list.",
+          "icon": "https://www.faviconextractor.com/favicon/todo.fangzm.dpdns.org"
         },
         {
           "id": "linux-do",
-          "name": "Linux.do",
-          "url": "https://linux.do",
-          "description": "Where Possible begins.",
-          "icon": "/sitelogo/linux.do.ico"
+          "name": "Blog",
+          "url": "https://blog.fangzm.dpdns.org",
+          "description": "My blog.",
+          "icon": "https://www.faviconextractor.com/favicon/blog.fangzm.dpdns.org"
         },
         {
           "id": "site-1752857783656",
-          "name": "OpenAI",
-          "url": "https://chatgpt.com",
-          "description": "OpenAI,好用👌",
-          "icon": "/sitelogo/chatgpt.com.ico"
+          "name": "See",
+          "url": "https://see.fangzm.dpdns.org",
+          "description": "寻找使用Chatroom的人",
+          "icon": "https://www.faviconextractor.com/favicon/see.fangzm.dpdns.org"
         },
         {
           "id": "github",
-          "name": "GitHub",
-          "url": "https://github.com",
-          "description": "代码托管平台",
-          "icon": "/sitelogo/github.com.ico"
+          "name": "Chatroom",
+          "url": "https://chatroom.fangzm.dpdns.org/",
+          "description": "如要和别人聊天，请在此网址后面加上数字，如 https://chatroom.fangzm.dpdns.org/13579",
+          "icon": "https://www.faviconextractor.com/favicon/chatroom.fangzm.dpdns.org"
         },
         {
           "id": "curlconverter",
-          "name": "curl converter",
-          "url": "https://curlconverter.com/",
-          "description": "curl命令转换工具",
-          "icon": "/sitelogo/curlconverter.com.ico"
+          "name": "AI Chat",
+          "url": "https://chatai.fangzm.dpdns.org",
+          "description": "AI chat.",
+          "icon": "https://www.faviconextractor.com/favicon/chatai.fangzm.dpdns.org"
         }
       ]
     },
@@ -481,6 +481,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "FangZM Nav",
-  "_fileSha": "7d7cd25583a0f29c108d9fa42a50afe905d98daa"
+  "title": "FangZM Nav"
 }
